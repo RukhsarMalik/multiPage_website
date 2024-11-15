@@ -13,8 +13,8 @@ const Navbar = () => {
         {/* Menu Section */}
         <div className="flex flex-row space-x-8">
           <Link href="/" className="text-white hover:text-yellow-400">Home</Link>
-          <Link href="/" className="text-white hover:text-yellow-400">Browse Books</Link>
-          <Link href="/" className="text-white hover:text-yellow-400">Login</Link>
+          <Link href="" className="text-white hover:text-yellow-400">Browse Books</Link>
+          <Link href="" className="text-white hover:text-yellow-400">Login</Link>
         </div>
       </div>
     </nav>
